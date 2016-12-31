@@ -4,8 +4,12 @@ S. Keshav, [Paper link](http://blizzard.cs.uwaterloo.ca/keshav/home/Papers/data/
 
 ## tl;dr
  - Make three passes of increasing detail
- - All passes have a satisfaction threshold
+ - All passes have a satisfaction threshold: 5 C's, summarize w/ evidence, point out flaws
 
+## Overall Thoughts
+The paper itself is a intriguing meta-paper useful for any beginner research. I appreciated the brevity (2 pages) and the algorithmic approach to each pass of the paper. Although the actual mechanics of reading a paper are straightforward, the author takes care to be as expansive as possible. The strategy outlined doesn't specify a field, so researchers from any quantitative field should find the paper useful.
+
+On a more personal level, I had not realized the importance of scanning the references, which is emphasized several times. Citations really are key. 
 
 ## Pass 1
  - Quick scan of main details: section titles, references you recognize, gist of paper
