@@ -1,6 +1,6 @@
 # How to Read a Paper
 
-S. Keshav, (Paper link)[http://blizzard.cs.uwaterloo.ca/keshav/home/Papers/data/07/paper-reading.pdf]
+S. Keshav, [Paper link](http://blizzard.cs.uwaterloo.ca/keshav/home/Papers/data/07/paper-reading.pdf)
 
 ## tl;dr
  - Make three passes of increasing detail
