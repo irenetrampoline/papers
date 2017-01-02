@@ -10,7 +10,7 @@ In an effort to absorb as much information as possible and synthesize later, I'm
 
 ## Papers
 
-**Dec 31, 2016** [How to Read a Paper (Keshav, 2016)](writeups/howto_read.md)[[pdf]](http://blizzard.cs.uwaterloo.ca/keshav/home/Papers/data/07/paper-reading.pdf)
+**Dec 31, 2016:** [How to Read a Paper](writeups/howto_read.md) (Keshav, 2016) [[pdf]](http://blizzard.cs.uwaterloo.ca/keshav/home/Papers/data/07/paper-reading.pdf)
 
 **Jan 1, 2017:** [Unsupervised Learning of Disease Progression Models (Wang et al, 2014)](http://cs.nyu.edu/~dsontag/papers/WanSonWan_kdd14.pdf)
 
