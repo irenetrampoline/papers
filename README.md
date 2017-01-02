@@ -1,6 +1,6 @@
 # Papers Irene has read
 
-In an effort to absorb as much information as possible and synthesize later, I'm collecting notes on papers here.
+My 2017 resolution is to read an academic paper every day. Here I keep myself accountable.
 
 ## Papers
 
