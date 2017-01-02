@@ -11,3 +11,6 @@ Useful links:
  Papers
   - Jan 1, 2017: [Unsupervised Learning of Disease Progression Models, Wang et al 2014](http://cs.nyu.edu/~dsontag/papers/WanSonWan_kdd14.pdf)
   - Jan 2, 2017: [Comorbidity Clusters in Autism Spectrum Disorders: An Electronic Health Record Time-Series Analysis, Doshi-Velez et al 2014](http://pediatrics.aappublications.org/content/133/1/e54.short)
+
+ Papers Upcoming
+  - TBD
