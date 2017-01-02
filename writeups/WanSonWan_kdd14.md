@@ -2,8 +2,6 @@
 
 X. Wang, D. Sontag, F. Wang. [Unsupervised Learning of Disease Progression Models.](http://pediatrics.aappublications.org/content/pediatrics/133/1/e54.full.pdf) ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), Aug. 2014.
 
-S. Keshav, [Paper link](http://pediatrics.aappublications.org/content/pediatrics/133/1/e54.full.pdf)
-
 ## tl;dr
  - Make three passes of increasing detail
  - All passes have a satisfaction threshold: 5 C's, summarize w/ evidence, point out flaws

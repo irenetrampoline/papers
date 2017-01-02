@@ -8,7 +8,7 @@ In an effort to absorb as much information as possible and synthesize later, I'm
 
 **Jan 1, 2017:** [Unsupervised Learning of Disease Progression Models.](writeups/WanSonWan_kdd14.md) X. Wang, D. Sontag, F. Wang. KDD 2014. [[pdf]](http://cs.nyu.edu/~dsontag/papers/WanSonWan_kdd14.pdf)
 
-**Jan 2, 2017:** [Comorbidity Clusters in Autism Spectrum Disorders.](doshivelez_pediatrics2014.md) F. Doshi-Velez, Y. Ge, I. Kohane. Pediatrics 2014. [[pdf]](http://pediatrics.aappublications.org/content/133/1/e54.full-text.pdf)
+**Jan 2, 2017:** [Comorbidity Clusters in Autism Spectrum Disorders.](doshivelez_ped2014.md) F. Doshi-Velez, Y. Ge, I. Kohane. Pediatrics 2014. [[pdf]](http://pediatrics.aappublications.org/content/133/1/e54.full-text.pdf)
 
 ## Useful links
  - [Three pass approach](http://blizzard.cs.uwaterloo.ca/keshav/home/Papers/data/07/paper-reading.pdf)
