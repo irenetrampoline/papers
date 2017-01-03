@@ -7,7 +7,7 @@ X. Wang, D. Sontag, F. Wang. [Unsupervised Learning of Disease Progression Model
  - Layers include Markov Jump Process (continuous disease state transitions), Markov Chain (comorbidities), and noisy-or Bayesian network (observed clinical evidence and comorbidities).
  - 
 
-![Model figure from paper](../img/WanSonWan_kdd14/model.png)
+![Model figure from paper](../img/WanSonWan_kdd14/model.png =250)
 
 ## Overall Thoughts
 Honestly, I'm glad I picked this as a first paper for 2017, but what a theoretical mind-twister! Had to read several times to understand anything, and I imagine that'll continue.
