@@ -1,6 +1,6 @@
 # Unsupervised Learning of Disease Progression Models
 
-X. Wang, D. Sontag, F. Wang. [Unsupervised Learning of Disease Progression Models.](http://pediatrics.aappublications.org/content/pediatrics/133/1/e54.full.pdf) ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), Aug. 2014.
+X. Wang, D. Sontag, F. Wang. [Unsupervised Learning of Disease Progression Models.](http://cs.nyu.edu/~dsontag/papers/WanSonWan_kdd14.pdf) ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), Aug. 2014.
 
 ## tl;dr
  - Takeaway 1

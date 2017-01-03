@@ -10,8 +10,9 @@ My 2017 resolution is to read an academic paper every day. Here I keep myself ac
 
 **Jan 2, 2017:** [Comorbidity Clusters in Autism Spectrum Disorders.](writeups/doshivelez_ped2014.md) F. Doshi-Velez, Y. Ge, I. Kohane. Pediatrics 2014. [[pdf]](http://pediatrics.aappublications.org/content/133/1/e54.full-text.pdf)
 
-## Useful links
+## Useful
  - [Three pass approach](http://blizzard.cs.uwaterloo.ca/keshav/home/Papers/data/07/paper-reading.pdf)
  - [Top CS conferences](https://blog.acolyer.org/2016/12/29/my-new-years-resolution-read-a-research-paper-every-weekday/)
  - [David Sontag's publications list](http://clinicalml.org/publications.html)
  - [FAT ML](http://www.fatml.org/)
+ - [Markdown preview](http://markdownlivepreview.com/)
