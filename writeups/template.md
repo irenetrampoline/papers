@@ -1,26 +1,24 @@
 # TITLE HERE
 
-Author 1, Author 2, Author 3. [FULL TITLE.](http://pediatrics.aappublications.org/content/pediatrics/133/1/e54.full.pdf) Conference YEAR. 
+Author 1, Author 2, Author 3. [FULL TITLE.](LINK HERE) Conference Year. 
 
 ## tl;dr
  - Takeaway 1
  - Takeaway 2
- - Open question summary
+ - Open question or critique
 
 ## Overall Thoughts
-TODO in paragraph form
+What is this paper showing? What are the contributions? What kind of paper is it: theoretical, applied, something in the middle? Where does it fit into the prior body of work?
 
 ## Section 1
- - Quick scan of main details: section titles, references you recognize, gist of paper
- - Reviewers will probably only take one pass
- - 'Graph abstract' can summarize entire paper in one graph/chart
- - Should be able to answer 5 C's: category, context, correctness, contributions, clarity
+ - Something witty or just summarizing
+ - Easy to read to remembmer what was in this paper
 
 ## Section 2
- - Take about an hour
- - Ignore details like proofs
- - Should be able to summarize paper with evidence to someone else
+ - Elaborate on something else
+ - What are the main contributions?
+ - Point to relevant long parts of paper that are unable to be summarized
 
 
-## Q's for author, expanded
+## Q's for authors
 TODO
