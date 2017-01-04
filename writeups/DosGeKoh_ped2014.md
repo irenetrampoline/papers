@@ -32,6 +32,8 @@ Overall, enjoyed this papers as it gave me an insight into how the medical field
  - Age of diagnosis peaks differently for each smaller cluster, suggesting some predictive elements
  - More detailed breakdown of each cluster--gender, specific codes, etc--in paper
 
+ ![diagnoses over time](../img/DosGeKoh_ped2014/diagnosis_time.png)
+
 ## Q's for authors
  - Why only four clusters? What is the stopping criteria and is it specific to Ward's method?
  - What is the hierarchical aspect of these clusters? Model described only one layers of clusters
