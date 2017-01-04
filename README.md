@@ -12,6 +12,8 @@ My 2017 resolution is to read an academic paper every day. Here I keep myself ac
 
 **Jan 3, 2017:** [Train and Test Tightness of LP Relaxations in Structured Prediction.](writeups/MeshiEtAl_icml16.md) O. Meshi, M. Mahdavi, A. Weller, D. Sontag. ICML 2016. [[pdf]](http://cs.nyu.edu/~dsontag/papers/MeshiEtAl_icml16.pdf)
 
+**Jan 4, 2017:** [Generative Adversarial Nets.](writeups/GoodEtAl_nips14.md) I. Goodfellow, J. Pouget-Abadie, M. Mirza, B. Xu, D. Warde-Farley, S. Ozair, A. Courville, Y. Bengio. NIPS 2016. [[pdf]](https://arxiv.org/pdf/1406.2661v1.pdf)
+
 
 ## Useful
  - [Three pass approach](http://blizzard.cs.uwaterloo.ca/keshav/home/Papers/data/07/paper-reading.pdf)
