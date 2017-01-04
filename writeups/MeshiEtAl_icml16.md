@@ -17,7 +17,7 @@ I wish I understood more of the math, and after puzzling over a few hours, I am 
 ## Problem formulation
 The ILP to solve involves the linear classifier prediction problem of mapping real-valued x to discrete output y. Weights w are learned from the training data set. Lambda refers to an indicator variable about whether or not y is active for that factor (splitting objective function into edges and nodes for example), and l is the task-specific loss.
 
-![relaxed training objective function](obj.png)
+![relaxed training objective function](../img/MeshiEtAl_icml16/obj.png)
 
 ## Tightness of training
 Here we can decompose the "relaxed-hinge" to the integrality gap and the exact-hinge. The authors show an upper bound to the integrality gap while also arguing that minimizing the training objective will also reduce the hinge term. 
