@@ -4,8 +4,8 @@
 
 ## tl;dr
  - Introduces new generative model using a discriminative and generative pair: counterfeit money maker gets better by having to evade poilce.
- - 
- - Open question or critique
+ - Presents theoretical results (optimality and convergence) as well as empirical results
+ - Clean, simple, and pretty paper
 
 ## Overall Thoughts
 Machine learning research moves fast, and as of Jan 2017, generative adversarial nets (GAN) are currently the hottest model around. The idea is simple enough to understand: a money counterfeiter tries to make money that passes off as real, and the police get smarter at detecting counterfeits. 
