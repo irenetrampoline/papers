@@ -3,12 +3,11 @@
 M. Hardt, E. Price, N. Srebro. [Equality of Opportunity in Supervised Learning.](https://arxiv.org/pdf/1610.02413v1.pdf) NIPS 2016. 
 
 ## tl;dr
- - Takeaway 1
+ - Equalized odds presents a new way of formalizing a non-discriminatory predictive algorithm
  - Takeaway 2
  - Open question or critique
 
 ## Overall Thoughts
-What is this paper showing? What are the contributions? What kind of paper is it: theoretical, applied, something in the middle? Where does it fit into the prior body of work?
 
 With the rise of machine learning, there has come the backlash of discrminatory algorithms. Certainly no one wants to be accused of bias (either intentional or unintentional), and thus a new field of "fair" algorithms has been born. As with any new field, the definition themselves must be carefully constructed and ruthlessly tested. 
 
@@ -22,33 +21,11 @@ Here the authors formalize their concept of *equalized odds*: essentially the tr
 
 ![Equalized odds](../img/HarPriSre_nips16/obj.png)
 
-A weaker notion of *equal opportunity* where only 
+A weaker notion of *equal opportunity* for only the situation where y = 1. That is, if we assume binary predictors tend to be positive (e.g. should this person get into this school), then the people who will do well have an equal opportunity to get into the school.
 
-In the paper, we construct a predictor Y_tilda that is independent of X conditional on random variables R and protected attribute A. The rest of the paper goes about applying this to real valued predictors, Bayes optimal predictors, and empirical results.
+Slightly more formally, we construct a predictor Y_tilda that is independent of X conditional on random variables R and protected attribute A. The rest of the paper goes about applying this to real valued predictors, Bayes optimal predictors, and empirical results.
 
-## 
-
-In particular, it does not evaluate the features in X nor the functional form of the predictor Y_hat(X) nor how it was derived.
-
-
-
-Equal true positive rates and false negative rates across A = 0 and A = 1.
-
-However, equalized odds enforces that the accuracy is equally
-high in all demographics, punishing models that perform well only on the majority.
-
-## Section 1
- - Something witty or just summarizing
- - Easy to read to remembmer what was in this paper
-
-## Section 2
- - Elaborate on something else
- - What are the main contributions?
- - Point to relevant long parts of paper that are unable to be summarized
-
-
-## Q's for authors
-TODO
+Truthfully I read this paper over twenty times and got backed up on my future papers to read because it was so fascinating. I could see myself focusing large amounts of research time onto questions of equality and fairness in algorithms.
 
 ## Helpful
  - [Google blog post](https://research.googleblog.com/2016/10/equality-of-opportunity-in-machine.html)
