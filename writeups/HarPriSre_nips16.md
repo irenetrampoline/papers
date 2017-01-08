@@ -4,8 +4,8 @@ M. Hardt, E. Price, N. Srebro. [Equality of Opportunity in Supervised Learning.]
 
 ## tl;dr
  - Equalized odds presents a new way of formalizing a non-discriminatory predictive algorithm
- - Takeaway 2
- - Open question or critique
+ - A case study about FICO credit scores is presented to determine the best threshold for each race in an equal opportunity way.
+ - Further study: How can we determine equality of algorithm if the protected attribute (race, gender, etc) cannot be perfectly measured?
 
 ## Overall Thoughts
 
