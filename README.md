@@ -16,6 +16,14 @@ My 2017 resolution is to read an academic paper every day. Here I keep myself ac
 
 **Jan 5, 2017:** [Equality of Opportunity in Supervised Learning.](writeups/HarPriSre_nips16.md) M. Hardt, E. Price, N. Srebro. NIPS 2016. [[pdf]](https://arxiv.org/pdf/1610.02413v1.pdf)
 
+**Jan 6, 2017:** [Learning a health knowledge graph from electronic medical records.](writeups/Halpern_ch5.md) Y. Halpern. Ch 5 of PhD thesis. [[pdf]](http://www.cs.nyu.edu/~halpern/files/halpern_thesis.pdf)
+
+**Jan 7, 2017:** [Let's Get Together: The Formation and Success of Online Creative Collaborations](writeups/SetDow_chi13) B. Settles, S. Dow. CHI 2013. [[pdf]](http://burrsettles.com/pub/settles.chi13.pdf)
+
+**Jan 8, 2017:** [How the machine 'thinks': Understanding opacity in machine learning algorithms.](writeups/Burrell_bds16) J. Burrell. Big Data and Society 2016. [[pdf]](http://journals.sagepub.com/doi/pdf/10.1177/2053951715622512)
+
+**Jan 9, 2017:** [Combatting Police Discrimination in the Age of Big Data.](writeups/GoelEtAl_nclr16) New Criminal Law Review 2016. [[pdf]](https://poseidon01.ssrn.com/delivery.php?ID=815017127117092118013116094110071023063027086039084088067084005023007120112069068104099039034045048124109002101019064095126075005070053014040093115026016002022060086083121121005086112001001031103003000085016070118099113101120112110085081113113127&EXT=pdf)
+
 
 ## Useful
  - [Three pass approach](http://blizzard.cs.uwaterloo.ca/keshav/home/Papers/data/07/paper-reading.pdf)
@@ -23,3 +31,5 @@ My 2017 resolution is to read an academic paper every day. Here I keep myself ac
  - [David Sontag's publications list](http://clinicalml.org/publications.html)
  - [FAT ML](http://www.fatml.org/)
  - [Markdown preview](http://markdownlivepreview.com/)
+ - [HCI papers](http://hci.stanford.edu/courses/cs376/2014/syllabus.php)
+ - [HCI paper Amy liked](http://www-personal.umich.edu/~itm/688/wk11%20-%20social%20cognition/Ackerman-SociotechnicalGap-HCI00.pdf)
