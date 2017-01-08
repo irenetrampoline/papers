@@ -1,6 +1,6 @@
 # Learning a health knowledge graph from electronic medical records
 
-Y. Halpern. [Learning a health knowledge graph from electronic medical records.](http://www.cs.nyu.edu/~halpern/files/halpern_thesis.pdf) Ch 5 of PhD thesis.
+Y. Halpern. [Learning a health knowledge graph from electronic medical records.](http://www.cs.nyu.edu/~halpern/files/halpern_thesis.pdf) Ch 5 of PhD thesis, 2016.
 
 ## tl;dr
  - Takeaway 1
