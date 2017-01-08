@@ -16,7 +16,7 @@ My 2017 resolution is to read an academic paper every day. Here I keep myself ac
 
 **Jan 5, 2017:** [Equality of Opportunity in Supervised Learning.](writeups/HarPriSre_nips16.md) M. Hardt, E. Price, N. Srebro. NIPS 2016. [[pdf]](https://arxiv.org/pdf/1610.02413v1.pdf)
 
-**Jan 6, 2017:** [Learning a health knowledge graph from electronic medical records.](writeups/Halpern_ch5.md) Y. Halpern. Ch 5 of PhD thesis. [[pdf]](http://www.cs.nyu.edu/~halpern/files/halpern_thesis.pdf)
+**Jan 6, 2017:** [Learning a health knowledge graph from electronic medical records.](writeups/Halpern_ch5.md) Y. Halpern. Ch 5 of PhD thesis, 2016. [[pdf]](http://www.cs.nyu.edu/~halpern/files/halpern_thesis.pdf)
 
 **Jan 7, 2017:** [Let's Get Together: The Formation and Success of Online Creative Collaborations.](writeups/SetDow_chi13.md) B. Settles, S. Dow. CHI 2013. [[pdf]](http://burrsettles.com/pub/settles.chi13.pdf)
 
