@@ -20,9 +20,11 @@ My 2017 resolution is to read an academic paper every day. Here I keep myself ac
 
 **Jan 7, 2017:** [Let's Get Together: The Formation and Success of Online Creative Collaborations.](writeups/SetDow_chi13.md) B. Settles, S. Dow. CHI 2013. [[pdf]](http://burrsettles.com/pub/settles.chi13.pdf)
 
-**Jan 8, 2017:** [How the machine 'thinks': Understanding opacity in machine learning algorithms.](writeups/Burrell_bds16.md) J. Burrell. Big Data and Society 2016. [[pdf]](http://journals.sagepub.com/doi/pdf/10.1177/2053951715622512)
+**Jan 8, 2017:** [Structured Inference Networks for Nonlinear State Space Models.](writeups/KriShaSon_aaai17.md) R. Krishnan, U. Shalit, D. Sontag. AAAI 2017. [[pdf]](https://arxiv.org/pdf/1609.09869v2.pdf)
 
 **Jan 9, 2017:** [Combatting Police Discrimination in the Age of Big Data.](writeups/GoelEtAl_nclr16.md) New Criminal Law Review 2016. [[pdf]](https://poseidon01.ssrn.com/delivery.php?ID=815017127117092118013116094110071023063027086039084088067084005023007120112069068104099039034045048124109002101019064095126075005070053014040093115026016002022060086083121121005086112001001031103003000085016070118099113101120112110085081113113127&EXT=pdf)
+
+**Jan 10, 2017:** [How the machine 'thinks': Understanding opacity in machine learning algorithms.](writeups/Burrell_bds16.md) J. Burrell. Big Data and Society 2016. [[pdf]](http://journals.sagepub.com/doi/pdf/10.1177/2053951715622512)
 
 
 ## Useful
