@@ -5,7 +5,7 @@ B. Settles, S. Dow.  [Let's Get Together: The Formation and Success of Online Cr
 ## tl;dr
  - Authors examined online creative songwriting community and pairwise patterns of collaboration.
  - Balance in community, effort, and status create successful collaborations.
- - Thought: can we reproduc these findings in other collaborative environments? What if it wasn't just two people? Is it the max or mean that is important?
+ - Thought: can we reproduce these findings in other collaborative environments? What if it wasn't just two people? Is it the max or mean that is important?
 
 ## Overall Thoughts
 
