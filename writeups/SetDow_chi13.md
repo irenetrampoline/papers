@@ -22,6 +22,8 @@ As a HCI newbie, I also don't understand how this paper fits in with other HCI p
  - With these new paths between nodes, use random walks (path length <= 4) to sample possible paths. Use logistic regression and LASSO to handle sparsity in the sample space and select only "meaningful" path edges. Calculate which path features predict collaboration.
  - This method is benchmarked against random walks without logistic regression, a model from Adamic & Adar to prevent co-authorship, and a matrix factorization method used in recommendation systems. The model featured outperforms these benchmarks.
 
+![example graph](../img/SetDow_chi13/graph.png)
+
 ## Findings
  - Communication exchanges best predict collaboration
  - Collaborations form out of common interests, small skill differences, and different skills
