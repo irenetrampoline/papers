@@ -26,9 +26,14 @@ My 2017 resolution is to read an academic paper every day. Here I keep myself ac
 
 **Jan 10, 2017:** [How the machine 'thinks': Understanding opacity in machine learning algorithms.](writeups/Burrell_bds16.md) J. Burrell. Big Data and Society 2016. [[pdf]](http://journals.sagepub.com/doi/pdf/10.1177/2053951715622512)
 
-**Jan 11, 2017:** [Man is to Computer Programmer as Woman is to Homemaker? Debiasing Word Embeddings.](writeups/BoluEtAl_nips16.md) T. Bolukbasi, K. Chang, J. Zou, V. Saligrama, A. Kalai. [[pdf]](https://papers.nips.cc/paper/6228-man-is-to-computer-programmer-as-woman-is-to-homemaker-debiasing-word-embeddings.pdf)
+**Jan 11, 2017:** [Learning a health knowledge graph from electronic medical records.](writeups/Halpern_ch4.md) Y. Halpern. Ch 4 of PhD thesis, 2016. [[pdf]](http://www.cs.nyu.edu/~halpern/files/halpern_thesis.pdf)
 
-**Jan 12, 2017:** [Edge-exchangeable graphs and sparsity.](writeups/CaiCamBro_nips16.md) D. Cai, T. Campbell, T. Broderick. [[pdf]](https://papers.nips.cc/paper/6586-edge-exchangeable-graphs-and-sparsity.pdf)
+**Jan 12, 2017:** [Man is to Computer Programmer as Woman is to Homemaker? Debiasing Word Embeddings.](writeups/BoluEtAl_nips16.md) T. Bolukbasi, K. Chang, J. Zou, V. Saligrama, A. Kalai. [[pdf]](https://papers.nips.cc/paper/6228-man-is-to-computer-programmer-as-woman-is-to-homemaker-debiasing-word-embeddings.pdf)
+
+**Jan 13, 2017:** [Edge-exchangeable graphs and sparsity.](writeups/CaiCamBro_nips16.md) D. Cai, T. Campbell, T. Broderick. [[pdf]](https://papers.nips.cc/paper/6586-edge-exchangeable-graphs-and-sparsity.pdf)
+
+**Jan 14, 2017:** [Counterfactual Prediction with Deep Instrumental Variable Networks.](writeups/HartEtAl_16.md) J. Hartford, G. Lewis, K. Leyton-Brown, M. Taddy. [[pdf]](https://arxiv.org/pdf/1612.09596v1.pdf)
+
 
 ## Useful
  - [Three pass approach](http://blizzard.cs.uwaterloo.ca/keshav/home/Papers/data/07/paper-reading.pdf)
