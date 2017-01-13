@@ -1,8 +1,6 @@
-# TITLE HERE
+# Man is to Computer Programmer as Woman is to Homemaker? Debiasing Word Embeddings
 
-Author 1, Author 2, Author 3. [FULL TITLE.](LINK HERE) Conference Year. 
-
-**Jan 11, 2017:** [Man is to Computer Programmer as Woman is to Homemaker? Debiasing Word Embeddings.](writeups/BoluEtAl_nips16.md) T. Bolukbasi, K. Chang, J. Zou, V. Saligrama, A. Kalai. [[pdf]](https://papers.nips.cc/paper/6228-man-is-to-computer-programmer-as-woman-is-to-homemaker-debiasing-word-embeddings.pdf)
+T. Bolukbasi, K. Chang, J. Zou, V. Saligrama, A. Kalai. [Man is to Computer Programmer as Woman is to Homemaker? Debiasing Word Embeddings.](https://papers.nips.cc/paper/6228-man-is-to-computer-programmer-as-woman-is-to-homemaker-debiasing-word-embeddings.pdf) NIPS 2016. 
 
 ## tl;dr
  - Takeaway 1

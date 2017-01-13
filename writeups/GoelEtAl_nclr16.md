@@ -17,14 +17,15 @@ One last non-PC note is that I wasn't entirely convinced by the authors that eac
 
 Overall, a welcome respite from the CS papers to something more applied. 
 
-# Legal efforts to rule out Terry stops
+## Legal efforts to rule out Terry stops
  - Court has ruled that it's necessary for a police person's proper investigative function, but not outside scope of Fourth Amendment (police officer's hope) or flatly unconstitutional (civilian's hope)
  - Officer must articulate "factual basis", doesn't matter if racially motivated
  - Cannot use statistical alone to show discriminatory intent 
  - Courts skeptical that statistical analysis is rigorous enough, moving towards more amenable to statistics in recent years
  - Floyd v New York: outlined what statistical analysis would need to show
 Terry stops under Fourteenth Amendment 
-# SHR (stop-level hit rate) method for reducing police discrimination
+
+## SHR (stop-level hit rate) method for reducing police discrimination
 - What is the probability that a stop with be "successful"?
 - Authors fit a logistic regression, which was reasonably accurate and robust
 - Found lots of stops with low probability of finding anything
