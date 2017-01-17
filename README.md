@@ -32,7 +32,14 @@ My 2017 resolution is to read an academic paper every day. Here I keep myself ac
 
 **Jan 13, 2017:** [Edge-exchangeable graphs and sparsity.](writeups/CaiCamBro_nips16.md) D. Cai, T. Campbell, T. Broderick. [[pdf]](https://papers.nips.cc/paper/6586-edge-exchangeable-graphs-and-sparsity.pdf)
 
-**Jan 14, 2017:** [Counterfactual Prediction with Deep Instrumental Variable Networks.](writeups/HartEtAl_16.md) J. Hartford, G. Lewis, K. Leyton-Brown, M. Taddy. [[pdf]](https://arxiv.org/pdf/1612.09596v1.pdf)
+**Jan 14, 2017:** [Counterfactual Prediction with Deep Instrumental Variable Networks.](writeups/HartEtAl_16.md) J. Hartford, G. Lewis, K. Leyton-Brown, M. Taddy. 2016. [[pdf]](https://arxiv.org/pdf/1612.09596v1.pdf)
+
+**Jan 15, 2017:** [Machine Learning of Three-dimensional Right Ventricular Motion Enables Outcome Prediction in Pulmonary Hypertension: A Cardiac MR Imaging Study.](writeups/DawesEtAl_ci17.md) T. Dawes, A. Marvao, W. Shi, T. Fletcher, G. Watson, C. Rhodes, L. Howard, J. Gibbs, D. Rueckert, S. Cook, M. Wilkins, D. O'Reagan. Caridac Imaging 2017. [[pdf]](http://pubs.rsna.org/doi/pdf/10.1148/radiol.2016161315)
+
+**Jan 16, 2017:** [RETAIN: Interpretable Predictive Model in Healthcare using Reverse Time Attention Mechanism.](writeups/ChoiEtAl_nips16.md) E. Choi, M. Bahadori, A. Schuetz, W. Stewart, J. Sun. NIPS 2016. [[pdf]](https://arxiv.org/pdf/1608.05745v3.pdf)
+
+**Jan 17, 2017:** [Effects of Computerized Clinical Decision Support Systems on Practitioner Performance and Patient Outcomes.](writeups/GargEtAl_jama05.md) A. Garg, N. Adhikari, H. McDonald, M. Rosas-Arellano, P. Devereaux, J. Beyene, J. Sam, R. Haynes. JAMA 2005. [[pdf]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.468.3830&rep=rep1&type=pdf)
+
 
 
 ## Useful
