@@ -40,6 +40,7 @@ My 2017 resolution is to read an academic paper every day. Here I keep myself ac
 
 **Jan 17, 2017:** [Effects of Computerized Clinical Decision Support Systems on Practitioner Performance and Patient Outcomes.](writeups/GargEtAl_jama05.md) A. Garg, N. Adhikari, H. McDonald, M. Rosas-Arellano, P. Devereaux, J. Beyene, J. Sam, R. Haynes. JAMA 2005. [[pdf]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.468.3830&rep=rep1&type=pdf)
 
+**Jan 18, 2017:** [Cache-Oblivious Algorithms.](writeups/FrigoEtAl_focs99.md) M. Frigo, C. Leiserson, H. Prokop, S. Ramachandran. FOCS 1999. [[pdf]](http://www.cc.gatech.edu/~bader/COURSES/GATECH/CSE6140-Fall2008/papers/FLP99.pdf)
 
 
 ## Useful
