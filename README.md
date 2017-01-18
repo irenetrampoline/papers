@@ -42,6 +42,7 @@ My 2017 resolution is to read an academic paper every day. Here I keep myself ac
 
 **Jan 18, 2017:** [Cache-Oblivious Algorithms.](writeups/FrigoEtAl_focs99.md) M. Frigo, C. Leiserson, H. Prokop, S. Ramachandran. FOCS 1999. [[pdf]](http://www.cc.gatech.edu/~bader/COURSES/GATECH/CSE6140-Fall2008/papers/FLP99.pdf)
 
+**Jan 19, 2017:** [Rethinking LDA: Moment Matching for Discrete ICA.](writeups/PodEtAl_nips15.md) A. Podosinnikova, F. Bach, S. Lacoste-Julien. [[pdf]](https://arxiv.org/pdf/1507.01784v2.pdf)
 
 ## Useful
  - [Three pass approach](http://blizzard.cs.uwaterloo.ca/keshav/home/Papers/data/07/paper-reading.pdf)
