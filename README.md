@@ -44,7 +44,10 @@ My 2017 resolution is to read an academic paper every day. Here I keep myself ac
 
 **Jan 19, 2017:** [Rethinking LDA: Moment Matching for Discrete ICA.](writeups/PodEtAl_nips15.md) A. Podosinnikova, F. Bach, S. Lacoste-Julien. NIPS 2015. [[pdf]](https://arxiv.org/pdf/1507.01784v2.pdf)
 
-**Jan 20, 2017:** [Bringing Impressionism to Life with Neural Style Transfer in *Come Swim*](writeups/JosSteSha_17.md) B. Joshi, K. Stewart, D. Shapiro. 2017. [[pdf]](https://arxiv.org/pdf/1701.04928v1.pdf)
+**Jan 20, 2017:** [Variational Dropout and the Local Reparameterization Trick](writeups/KinSalWel_nips15.md) D. Kingma, T. Salimans, M. Welling. NIPS 2015. [[pdf]](https://arxiv.org/pdf/1506.02557v2.pdf)
+
+
+**Jan 21, 2017:** [Bringing Impressionism to Life with Neural Style Transfer in *Come Swim*](writeups/JosSteSha_17.md) B. Joshi, K. Stewart, D. Shapiro. 2017. [[pdf]](https://arxiv.org/pdf/1701.04928v1.pdf)
 
 
 ## Useful
