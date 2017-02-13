@@ -28,26 +28,45 @@ My 2017 resolution is to read an academic paper every day. Here I keep myself ac
 
 **Jan 11, 2017:** [Correlated factors in anchored factor analysis.](writeups/Halpern_ch6.md) Y. Halpern. Ch 6 of PhD thesis, 2016. [[pdf]](http://www.cs.nyu.edu/~halpern/files/halpern_thesis.pdf)
 
-**Jan 12, 2017:** [Man is to Computer Programmer as Woman is to Homemaker? Debiasing Word Embeddings.](writeups/BoluEtAl_nips16.md) T. Bolukbasi, K. Chang, J. Zou, V. Saligrama, A. Kalai. [[pdf]](https://papers.nips.cc/paper/6228-man-is-to-computer-programmer-as-woman-is-to-homemaker-debiasing-word-embeddings.pdf)
+**Jan 12, 2017:** [Probabilistic Topic Models.](writeups/Blei_acm12.md) D. Blei. Communications of the ACM 2012. [[pdf]](https://www.cs.princeton.edu/~blei/papers/Blei2012.pdf)
 
-**Jan 13, 2017:** [Edge-exchangeable graphs and sparsity.](writeups/CaiCamBro_nips16.md) D. Cai, T. Campbell, T. Broderick. [[pdf]](https://papers.nips.cc/paper/6586-edge-exchangeable-graphs-and-sparsity.pdf)
+## To be read
 
-**Jan 14, 2017:** [Counterfactual Prediction with Deep Instrumental Variable Networks.](writeups/HartEtAl_16.md) J. Hartford, G. Lewis, K. Leyton-Brown, M. Taddy. 2016. [[pdf]](https://arxiv.org/pdf/1612.09596v1.pdf)
+[A Practical Algorithm for Topic Modeling with Provable Guarantees.](writeups/AroraEtAl_icml13.md) S. Arora, R. Ge, Y. Halpern, D. Mimno, A. Moitra, D. Sontag, Y. Wu, M. Zhu. ICML 2013. [[pdf]](http://cs.nyu.edu/~dsontag/papers/AroraEtAl_icml13.pdf)
 
-**Jan 15, 2017:** [Machine Learning of Three-dimensional Right Ventricular Motion Enables Outcome Prediction in Pulmonary Hypertension: A Cardiac MR Imaging Study.](writeups/DawesEtAl_ci17.md) T. Dawes, A. Marvao, W. Shi, T. Fletcher, G. Watson, C. Rhodes, L. Howard, J. Gibbs, D. Rueckert, S. Cook, M. Wilkins, D. O'Reagan. Caridac Imaging 2017. [[pdf]](http://pubs.rsna.org/doi/pdf/10.1148/radiol.2016161315)
+[The Pseudo-Dimension of Near-Optimal Auctions.](writeups/MorRou_nips15.md) J. Margenstern, T. Roughgarden. NIPS 2015. [[pdf]](https://arxiv.org/pdf/1506.03684.pdf)
 
-**Jan 16, 2017:** [RETAIN: Interpretable Predictive Model in Healthcare using Reverse Time Attention Mechanism.](writeups/ChoiEtAl_nips16.md) E. Choi, M. Bahadori, A. Schuetz, W. Stewart, J. Sun. NIPS 2016. [[pdf]](https://arxiv.org/pdf/1608.05745v3.pdf)
+[Topic Models.](writeups/BleLaf_09.md) D. Blei, J. Lafferty. [[pdf]](https://www.cs.princeton.edu/~blei/papers/BleiLafferty2009.pdf)
 
-**Jan 17, 2017:** [Effects of Computerized Clinical Decision Support Systems on Practitioner Performance and Patient Outcomes.](writeups/GargEtAl_jama05.md) A. Garg, N. Adhikari, H. McDonald, M. Rosas-Arellano, P. Devereaux, J. Beyene, J. Sam, R. Haynes. JAMA 2005. [[pdf]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.468.3830&rep=rep1&type=pdf)
+[Latent Dirichlet Allocation.](writeups/BleNgJor_jmlr03.md) D. Blei, A. Ng, M. Jordan. [[pdf]](http://www.jmlr.org/papers/volume3/blei03a/blei03a.pdf)
 
-**Jan 18, 2017:** [Cache-Oblivious Algorithms.](writeups/FrigoEtAl_focs99.md) M. Frigo, C. Leiserson, H. Prokop, S. Ramachandran. FOCS 1999. [[pdf]](http://www.cc.gatech.edu/~bader/COURSES/GATECH/CSE6140-Fall2008/papers/FLP99.pdf)
+[Variational Inference: A Review for Statisticians.](writeups/BleNgJor_jmlr03.md) D. Blei, A. Kucukelbir, J. McAuliffe. 2016. [[pdf]](https://arxiv.org/pdf/1601.00670.pdf)
 
-**Jan 19, 2017:** [Rethinking LDA: Moment Matching for Discrete ICA.](writeups/PodEtAl_nips15.md) A. Podosinnikova, F. Bach, S. Lacoste-Julien. NIPS 2015. [[pdf]](https://arxiv.org/pdf/1507.01784v2.pdf)
+[Learning Bayesian Networks with Incomplete Data by Augmentation.](writeups/BleNgJor_jmlr03.md) T. Adel, C. de Campos. 2016. [[pdf]](https://arxiv.org/pdf/1608.07734.pdf)
 
-**Jan 20, 2017:** [Variational Dropout and the Local Reparameterization Trick](writeups/KinSalWel_nips15.md) D. Kingma, T. Salimans, M. Welling. NIPS 2015. [[pdf]](https://arxiv.org/pdf/1506.02557v2.pdf)
+[Early death after discharge from emergency departments: analysis of national US insurance claims data.](writeups/BleNgJor_jmlr03.md) Z. Obermeyer, B. Cohn, M. Wilson, A. Jena, D. Cutler. 2016. [[pdf]](http://www.bmj.com/content/bmj/356/bmj.j239.<full class="pdf"></full>)
 
 
-**Jan 21, 2017:** [Bringing Impressionism to Life with Neural Style Transfer in *Come Swim*](writeups/JosSteSha_17.md) B. Joshi, K. Stewart, D. Shapiro. 2017. [[pdf]](https://arxiv.org/pdf/1701.04928v1.pdf)
+[Man is to Computer Programmer as Woman is to Homemaker? Debiasing Word Embeddings.](writeups/BoluEtAl_nips16.md) T. Bolukbasi, K. Chang, J. Zou, V. Saligrama, A. Kalai. [[pdf]](https://papers.nips.cc/paper/6228-man-is-to-computer-programmer-as-woman-is-to-homemaker-debiasing-word-embeddings.pdf)
+
+[Edge-exchangeable graphs and sparsity.](writeups/CaiCamBro_nips16.md) D. Cai, T. Campbell, T. Broderick. [[pdf]](https://papers.nips.cc/paper/6586-edge-exchangeable-graphs-and-sparsity.pdf)
+
+[Counterfactual Prediction with Deep Instrumental Variable Networks.](writeups/HartEtAl_16.md) J. Hartford, G. Lewis, K. Leyton-Brown, M. Taddy. 2016. [[pdf]](https://arxiv.org/pdf/1612.09596v1.pdf)
+
+[Machine Learning of Three-dimensional Right Ventricular Motion Enables Outcome Prediction in Pulmonary Hypertension: A Cardiac MR Imaging Study.](writeups/DawesEtAl_ci17.md) T. Dawes, A. Marvao, W. Shi, T. Fletcher, G. Watson, C. Rhodes, L. Howard, J. Gibbs, D. Rueckert, S. Cook, M. Wilkins, D. O'Reagan. Caridac Imaging 2017. [[pdf]](http://pubs.rsna.org/doi/pdf/10.1148/radiol.2016161315)
+
+[RETAIN: Interpretable Predictive Model in Healthcare using Reverse Time Attention Mechanism.](writeups/ChoiEtAl_nips16.md) E. Choi, M. Bahadori, A. Schuetz, W. Stewart, J. Sun. NIPS 2016. [[pdf]](https://arxiv.org/pdf/1608.05745v3.pdf)
+
+[Effects of Computerized Clinical Decision Support Systems on Practitioner Performance and Patient Outcomes.](writeups/GargEtAl_jama05.md) A. Garg, N. Adhikari, H. McDonald, M. Rosas-Arellano, P. Devereaux, J. Beyene, J. Sam, R. Haynes. JAMA 2005. [[pdf]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.468.3830&rep=rep1&type=pdf)
+
+[Cache-Oblivious Algorithms.](writeups/FrigoEtAl_focs99.md) M. Frigo, C. Leiserson, H. Prokop, S. Ramachandran. FOCS 1999. [[pdf]](http://www.cc.gatech.edu/~bader/COURSES/GATECH/CSE6140-Fall2008/papers/FLP99.pdf)
+
+[Rethinking LDA: Moment Matching for Discrete ICA.](writeups/PodEtAl_nips15.md) A. Podosinnikova, F. Bach, S. Lacoste-Julien. NIPS 2015. [[pdf]](https://arxiv.org/pdf/1507.01784v2.pdf)
+
+[Variational Dropout and the Local Reparameterization Trick](writeups/KinSalWel_nips15.md) D. Kingma, T. Salimans, M. Welling. NIPS 2015. [[pdf]](https://arxiv.org/pdf/1506.02557v2.pdf)
+
+[Bringing Impressionism to Life with Neural Style Transfer in *Come Swim*](writeups/JosSteSha_17.md) B. Joshi, K. Stewart, D. Shapiro. 2017. [[pdf]](https://arxiv.org/pdf/1701.04928v1.pdf)
+
 
 
 ## Useful
