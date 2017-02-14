@@ -30,6 +30,9 @@ My 2017 resolution is to read an academic paper every day. Here I keep myself ac
 
 **Jan 12, 2017:** [Probabilistic Topic Models.](writeups/Blei_acm12.md) D. Blei. Communications of the ACM 2012. [[pdf]](https://www.cs.princeton.edu/~blei/papers/Blei2012.pdf)
 
+**Jan 12, 2017:** [Bringing Impressionism to Life with Neural Style Transfer in *Come Swim*](writeups/JosSteSha_17.md) B. Joshi, K. Stewart, D. Shapiro. 2017. [[pdf]](https://arxiv.org/pdf/1701.04928v1.pdf)
+
+
 ## To be read
 
 [A Practical Algorithm for Topic Modeling with Provable Guarantees.](writeups/AroraEtAl_icml13.md) S. Arora, R. Ge, Y. Halpern, D. Mimno, A. Moitra, D. Sontag, Y. Wu, M. Zhu. ICML 2013. [[pdf]](http://cs.nyu.edu/~dsontag/papers/AroraEtAl_icml13.pdf)
@@ -65,7 +68,6 @@ My 2017 resolution is to read an academic paper every day. Here I keep myself ac
 
 [Variational Dropout and the Local Reparameterization Trick](writeups/KinSalWel_nips15.md) D. Kingma, T. Salimans, M. Welling. NIPS 2015. [[pdf]](https://arxiv.org/pdf/1506.02557v2.pdf)
 
-[Bringing Impressionism to Life with Neural Style Transfer in *Come Swim*](writeups/JosSteSha_17.md) B. Joshi, K. Stewart, D. Shapiro. 2017. [[pdf]](https://arxiv.org/pdf/1701.04928v1.pdf)
 
 
 

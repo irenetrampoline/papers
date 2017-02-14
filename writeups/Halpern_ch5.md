@@ -28,3 +28,4 @@ Specifics of the model (e.g. thresholds, entity extraction) are covered more tho
  - *Data refinement:* concept extraction and other data cleanliness
  - *More robust model:* edges between symptoms, bringing in multiple sources of truth (textbooks, EMRs, etc), building in noise generally
  - *Transfer learning:* Can this apply to areas beyond knowledge graphs? acute care?
+ - See also [writeup on Ch 6 of thesis](Halpern_ch6.md)
