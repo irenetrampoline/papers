@@ -30,10 +30,16 @@ My 2017 resolution is to read an academic paper every day. Here I keep myself ac
 
 **Jan 12, 2017:** [Probabilistic Topic Models.](writeups/Blei_acm12.md) D. Blei. Communications of the ACM 2012. [[pdf]](https://www.cs.princeton.edu/~blei/papers/Blei2012.pdf)
 
-**Jan 12, 2017:** [Bringing Impressionism to Life with Neural Style Transfer in *Come Swim*](writeups/JosSteSha_17.md) B. Joshi, K. Stewart, D. Shapiro. 2017. [[pdf]](https://arxiv.org/pdf/1701.04928v1.pdf)
+**Jan 13, 2017:** [Bringing Impressionism to Life with Neural Style Transfer in *Come Swim*](writeups/JosSteSha_17.md) B. Joshi, K. Stewart, D. Shapiro. 2017. [[pdf]](https://arxiv.org/pdf/1701.04928v1.pdf)
 
+**Mar 27, 2017:** [The Dependence of Machine Learning on Electronic Medical Record Quality.](writeups/HoLedAcz_17.md). L. Ho, D. Ledbetter, M. Aczon. 2017. [[pdf]](https://arxiv.org/pdf/1703.08251.pdf)
 
 ## To be read
+
+[]
+
+[A New Approach to the Minimum Cut Problem.](writeups/KarSte_jacm96.md) D. Karger, C. Stein. JACM 1996. [[pdf]](http://delivery.acm.org/10.1145/240000/234534/p601-karger.pdf?ip=18.111.34.118&id=234534&acc=ACTIVE%20SERVICE&key=7777116298C9657D%2EDE5F786C30E1A3B4%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&CFID=728388402&CFTOKEN=74744216&__acm__=1487184581_c356903984f56508e3737417ff6a361d)
+
 
 [A Practical Algorithm for Topic Modeling with Provable Guarantees.](writeups/AroraEtAl_icml13.md) S. Arora, R. Ge, Y. Halpern, D. Mimno, A. Moitra, D. Sontag, Y. Wu, M. Zhu. ICML 2013. [[pdf]](http://cs.nyu.edu/~dsontag/papers/AroraEtAl_icml13.pdf)
 
@@ -79,3 +85,4 @@ My 2017 resolution is to read an academic paper every day. Here I keep myself ac
  - [Markdown preview](http://markdownlivepreview.com/)
  - [HCI papers](http://hci.stanford.edu/courses/cs376/2014/syllabus.php)
  - [HCI paper Amy liked](http://www-personal.umich.edu/~itm/688/wk11%20-%20social%20cognition/Ackerman-SociotechnicalGap-HCI00.pdf)
+ - [Most cited deep learning papers](https://github.com/terryum/awesome-deep-learning-papers)
