@@ -2,6 +2,8 @@
 
 L. Ho, D. Ledbetter, M. Aczon. [The Dependence of Machine Learning on Electronic Medical Record Quality.](https://arxiv.org/pdf/1703.08251.pdf) 2017.
 
+Source: Sontag Group Slack channel 
+
 ## tl;dr
  - Tested three ML methods against variants of EMR data
  - Methods were logistic regression, 2-layer neural network, LSTM RNN
