@@ -32,9 +32,11 @@ My 2017 resolution is to read an academic paper every day. Here I keep myself ac
 
 **Jan 13, 2017:** [Bringing Impressionism to Life with Neural Style Transfer in *Come Swim*](writeups/JosSteSha_17.md) B. Joshi, K. Stewart, D. Shapiro. 2017. [[pdf]](https://arxiv.org/pdf/1701.04928v1.pdf)
 
-**Mar 27, 2017:** [The Dependence of Machine Learning on Electronic Medical Record Quality.](writeups/HoLedAcz_17.md). L. Ho, D. Ledbetter, M. Aczon. 2017. [[pdf]](https://arxiv.org/pdf/1703.08251.pdf)
+**Mar 27, 2017:** [The Dependence of Machine Learning on Electronic Medical Record Quality.](writeups/HoLedAcz_17.md) L. Ho, D. Ledbetter, M. Aczon. 2017. [[pdf]](https://arxiv.org/pdf/1703.08251.pdf)
 
-**May 04, 2017:** [Differential Privacy and Machine Learning: a Survey and Review.](writeups/JiLipElk14.md). Z. Ji, Z. C. Lipton, C. Elkan. . 2014. [[pdf]](https://arxiv.org/pdf/1412.7584.pdf)
+**May 04, 2017:** [Differential Privacy and Machine Learning: a Survey and Review.](writeups/JiLipElk14.md) Z. Ji, Z. C. Lipton, C. Elkan. . 2014. [[pdf]](https://arxiv.org/pdf/1412.7584.pdf)
+
+**May 05, 2017:** [Random Features for Large-Scale Kernel Machines.](writeups/RahRec07.md) A. Rahimi, B. Recht. . 2007. [[pdf]](https://people.eecs.berkeley.edu/~brecht/papers/07.rah.rec.nips)
 
 **MORE TO COME!**
 
