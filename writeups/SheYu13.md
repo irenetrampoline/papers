@@ -4,8 +4,8 @@ Entong Shen, Ting Yu. [Mining Frequent Graph Patterns with Differential Privacy.
 
 ## tl;dr
  - Frequent graph patterns denotes the number of graphs containing a subgraph G given a larger set of graphs
- - 
- - Open question or critique
+ - MCMC based on traveling between possible patterns, converged distribution gives exponential mechanism
+ - Optimization includes finding the efficient neighbors: popular patterns have popular subgraphs, and unpopular patterns have unpopular supergraphs
 
 ## Approach
 We are trying to find the number of graphs that have a specific subgraph within them. We reformulate such that MCMC can do a random walk in order to apply the classic differential privacy approach of an exponential mechanism (generalized form of Lapalcian mechanism). Note that subgraph isomorphism test is NP-complete, which makes counting the support of a pattern computationally difficult.
