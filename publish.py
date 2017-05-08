@@ -4,8 +4,10 @@ import py.test
 import re
 import shutil
 import os
+import urllib2
 from os.path import join
 
+PDF_DIR = 'pdfs/'
 WRITEUP_DIR = 'writeups/'
 
 def main():
@@ -38,21 +40,22 @@ def main():
 		md_title = []
 		for a in authors_lst:
 			a = a.strip()
-			first3 = a.split(' ')[-1][:3]
+			first3 = a.split(' ')[-1][:3].replace('.', '')
 			md_title.append(first3)
 		md_title = ''.join(md_title)
 	else:
 		a = authors_lst[0]
-		first3 = a.split(' ')[-1][:3]
+		first3 = a.split(' ')[-1][:3].replace('.', '')
 		md_title = '%sEtAl' % first3
 
-	md_title = join(WRITEUP_DIR, md_title + str(year)[-2:] + '.md')
+	md_title = md_title + str(year)[-2:]
+	md_fname = join(WRITEUP_DIR, md_title + '.md')
 
-	g = open(md_title, 'wb')
+	g = open(md_fname, 'wb')
 	g.writelines(writeup)
 	g.close()
 
-	print 'Wrote file to %s' % md_title
+	print 'Wrote file to %s' % md_fname
 
 	title = re.findall('\[(.*?)\]', info_line)[0]
 	url = re.findall('\((.*?)\)', info_line)[0]
@@ -76,7 +79,7 @@ def main():
 				authors_lst_short.append(short_name)
 			authors_short = ', '.join(authors_lst_short)
 			new_line = '**%s:** [%s](%s) %s%s. [[pdf]](%s)' % (
-				date, title, md_title, authors_short, str(year), url
+				date, title, md_fname, authors_short, str(year), url
 				)
 			g.write(new_line + '\n')
 			g.write('\n')
@@ -89,13 +92,22 @@ def main():
 	shutil.copy('writeups/today.md', 'writeups/old.md')
 	shutil.copy('writeups/template.md', 'writeups/today.md')
 
-
-	print 'Updated README.md.'
+	pdf_fname = join(PDF_DIR, md_title + '.pdf')
+	# download_file(url, pdf_fname)
+	print 'Updated README.md'
+	# print 'Downloaded PDF in %s' % pdf_fname
 	# print title
 	# print url
 
 	# rename today.md (md title)
 	# Add info to readme (authors, title, md title, URL, date)
+
+def download_file(download_url, fname):
+    response = urllib2.urlopen(download_url)
+    file = open("%s.pdf" % fname, 'wb')
+    file.write(response.read())
+    file.close()
+    print("Completed")
 
 if __name__ == '__main__':
 	main()

@@ -42,6 +42,8 @@ My 2017 resolution is to read an academic paper every day. Here I keep myself ac
 
 **May 07, 2017:** [Mining Frequent Graph Patterns with Differential Privacy.](writeups/SheYu13.md) E. Shen, T. Yu. 2013. [[pdf]](https://arxiv.org/pdf/1301.7015.pdf)
 
+**May 08, 2017:** [Learning Graphical Models Using Multiplicative Weights.](writeups/KliMek17.md) A. R. Klivans, R. Meka. 2017. [[pdf]]()
+
 **MORE TO COME!**
 
 ## To be read
