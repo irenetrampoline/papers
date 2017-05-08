@@ -38,6 +38,10 @@ My 2017 resolution is to read an academic paper every day. Here I keep myself ac
 
 **May 05, 2017:** [Random Features for Large-Scale Kernel Machines.](writeups/RahRec07.md) A. Rahimi, B. Recht. 2007. [[pdf]](https://people.eecs.berkeley.edu/~brecht/papers/07.rah.rec.nips)
 
+**May 06, 2017:** [Learning with Confident Examples: Rank Pruning for Robust Classification with Noisy Labels.](writeups/NorWuChu17.md) C. G. Northcutt, T. Wu, I. L. Chuang. 2017. [[pdf]](https://arxiv.org/pdf/1705.01936.pdf)
+
+**May 07, 2017:** [Mining Frequent Graph Patterns with Differential Privacy.](writeups/SheYu13.md) E. Shen, T. Yu. 2013. [[pdf]](https://arxiv.org/pdf/1301.7015.pdf)
+
 **MORE TO COME!**
 
 ## To be read
