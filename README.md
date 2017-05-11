@@ -46,6 +46,8 @@ My 2017 resolution is to read an academic paper every day. Here I keep myself ac
 
 **May 10, 2017:** [Practical Bayesian Optimization of Machine Learning Algorithms.](writeups/SnoLarAda12.md) J. Snoek, H. Larochelle, R. P. Adams. 2012. [[pdf]](http://papers.nips.cc/paper/4522-practical-bayesian-optimization-of-machine-learning-algorithms.pdf)
 
+**May 10, 2017:** [Large-Scale Physiological Waveform Retrieval via Locality-Sensitive Hashing.](writeups/KimO'R15.md) Y. Bryce Kim, U. O'Reilly. 2015. [[pdf]](http://people.csail.mit.edu/ybkim/papers/EMBC15A.pdf)
+
 **MORE TO COME!**
 
 ## To be read
