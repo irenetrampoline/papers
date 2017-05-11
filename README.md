@@ -44,6 +44,8 @@ My 2017 resolution is to read an academic paper every day. Here I keep myself ac
 
 **May 08, 2017:** [Learning Graphical Models Using Multiplicative Weights.](writeups/KliMek17.md) A. R. Klivans, R. Meka. 2017. [[pdf]]()
 
+**May 10, 2017:** [Practical Bayesian Optimization of Machine Learning Algorithms.](writeups/SnoLarAda12.md) J. Snoek, H. Larochelle, R. P. Adams. 2012. [[pdf]](http://papers.nips.cc/paper/4522-practical-bayesian-optimization-of-machine-learning-algorithms.pdf)
+
 **MORE TO COME!**
 
 ## To be read
