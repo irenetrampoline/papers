@@ -48,6 +48,8 @@ My 2017 resolution is to read an academic paper every day. Here I keep myself ac
 
 **May 10, 2017:** [Large-Scale Physiological Waveform Retrieval via Locality-Sensitive Hashing.](writeups/KimO'R15.md) Y. Bryce Kim, U. O'Reilly. 2015. [[pdf]](http://people.csail.mit.edu/ybkim/papers/EMBC15A.pdf)
 
+**Aug 16, 2017:** [Understanding Black-Box Predictions via Influence Functions.](writeups/KohLia17.md) P. Wei Koh, P. Liang. 2017. [[pdf]](http://proceedings.mlr.press/v70/koh17a/koh17a.pdf)
+
 **MORE TO COME!**
 
 ## To be read
