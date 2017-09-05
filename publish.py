@@ -93,7 +93,10 @@ def main():
 	shutil.copy('writeups/template.md', 'writeups/today.md')
 
 	pdf_fname = join(PDF_DIR, md_title + '.pdf')
-	download_file(url, pdf_fname)
+	try:
+		download_file(url, pdf_fname)
+	except:
+		print 'Failed to download: %s' % url
 	print 'Updated README.md'
 	print 'Downloaded PDF in %s' % pdf_fname
 	# print title

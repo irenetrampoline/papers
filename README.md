@@ -50,6 +50,10 @@ My 2017 resolution is to read an academic paper every day. Here I keep myself ac
 
 **Aug 16, 2017:** [Understanding Black-Box Predictions via Influence Functions.](writeups/KohLia17.md) P. Wei Koh, P. Liang. 2017. [[pdf]](http://proceedings.mlr.press/v70/koh17a/koh17a.pdf)
 
+**Sep 05, 2017:** [Classification of common human diseases derived from shared genetic and environmental determinants.](writeups/PooCoxRzh17.md) K. Wang,	Hallie Gaitsch,	Hoifung Poon, N. J Cox, A. Rzhetsky. 2017. [[pdf]](http://www.nature.com/ng/journal/v49/n9/full/ng.3931.html)
+
+**Sep 05, 2017:** [Classification of common human diseases derived from shared genetic and environmental determinants.](writeups/PooCoxRzh17.md) K. Wang,	Hallie Gaitsch,	Hoifung Poon, N. J Cox, A. Rzhetsky. 2017. [[pdf]](http://www.nature.com/ng/journal/v49/n9/full/ng.3931.html)
+
 **MORE TO COME!**
 
 ## To be read

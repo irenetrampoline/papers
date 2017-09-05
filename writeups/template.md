@@ -20,5 +20,5 @@ What is this paper showing? What are the contributions? What kind of paper is it
  - Point to relevant long parts of paper that are unable to be summarized
 
 
-## Q's for authors
+## Questions
 TODO
