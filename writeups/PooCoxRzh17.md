@@ -36,6 +36,15 @@ The paper uses insurance claims from Truven MarketScan, which contains informati
 ## Discussion
  - Considerations for bias: urban, more affluent, assortive mating, lack of ethnicity and race information.
 
+## Methodology (updated)
+ - Starts with linear model of y = X\beta + a + c + s + f + e
+ - Variance of y can be decomposed into different factors
+
+## Extensions
+ - David's student took BCBS data and did a similar study about genetic and environment. Had race data
+ - Probability of getting disease if your parent had it?
+ - Diseases diagnosed after age of 30 would be missed.
+
 ## Questions
  - What are GCS and GC models? What methods in addition to straight correlation are done? Could be done?
  - What does unique environment vs common-couple mean? Common couple probably means a couple that has a child, but what about unique environment?
