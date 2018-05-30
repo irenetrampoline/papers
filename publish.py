@@ -67,8 +67,10 @@ def main():
 	g = open('README_new.md', 'wb')
 	# readme = ['**MORE TO COME!**']
 	# py.test.set_trace()
-	for line in readme:
-		if '**MORE TO COME!**' in line:
+
+	for i, line in enumerate(readme):
+		g.write(line)
+		if '## Papers' in line:
 			date = time.strftime("%b %d, %Y")
 			authors_lst_short = list()
 			for a in authors_lst:
@@ -83,7 +85,7 @@ def main():
 				)
 			g.write(new_line + '\n')
 			g.write('\n')
-		g.write(line)
+			
 	g.close()
 
 	shutil.copy('README.md', 'README_old.md')
