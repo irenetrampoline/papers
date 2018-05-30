@@ -98,7 +98,7 @@ def main():
 	except:
 		print 'Failed to download: %s' % url
 	print 'Updated README.md'
-	print 'Downloaded PDF in %s' % pdf_fname
+	print 'Downloaded PDF file in %s' % pdf_fname
 	# print title
 	# print url
 
