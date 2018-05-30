@@ -1,7 +1,9 @@
 # Academic papers Irene has read
-I occassionally make the resolution is to read an academic paper every day. Here I keep myself accountable.
+My goal is to read an academic paper every day. Here I keep myself accountable.
 
 ## Papers
+**May 30, 2018:** [The Seven Pillars of Causal Reasoning with Reflections on Machine Learning.](writeups/Pea18.md) J. Pearl. 2018. [[pdf]](http://ftp.cs.ucla.edu/pub/stat_ser/r481.pdf)
+
 **Sep 05, 2017:** [Classification of common human diseases derived from shared genetic and environmental determinants.](writeups/PooCoxRzh17.md) K. Wang,	Hallie Gaitsch,	Hoifung Poon, N. J Cox, A. Rzhetsky. 2017. [[pdf]](http://www.nature.com/ng/journal/v49/n9/full/ng.3931.html)
 
 **Aug 16, 2017:** [Understanding Black-Box Predictions via Influence Functions.](writeups/KohLia17.md) P. Wei Koh, P. Liang. 2017. [[pdf]](http://proceedings.mlr.press/v70/koh17a/koh17a.pdf)
