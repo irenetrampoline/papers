@@ -2,6 +2,8 @@
 My goal is to read an academic paper every day. Here I keep myself accountable.
 
 ## Papers
+**May 31, 2018:** [Preventing Fairness Gerrymandering: Auditing and Learning for Subgroup Fairness.](writeups/KeaEtAl18.md) M. Kearns, S. Neel, A. Roth, Z. Steven Wu. 2018. [[pdf]](https://arxiv.org/pdf/1711.05144.pdf)
+
 **May 30, 2018:** [The Seven Pillars of Causal Reasoning with Reflections on Machine Learning.](writeups/Pea18.md) J. Pearl. 2018. [[pdf]](http://ftp.cs.ucla.edu/pub/stat_ser/r481.pdf)
 
 **Sep 05, 2017:** [Classification of common human diseases derived from shared genetic and environmental determinants.](writeups/PooCoxRzh17.md) K. Wang,	Hallie Gaitsch,	Hoifung Poon, N. J Cox, A. Rzhetsky. 2017. [[pdf]](http://www.nature.com/ng/journal/v49/n9/full/ng.3931.html)
