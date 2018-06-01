@@ -13,7 +13,7 @@ WRITEUP_DIR = 'writeups/'
 def main():
 	parser = argparse.ArgumentParser()
 	parser.add_argument("--input", required = False, default="writeups/today.md",help="writeup filename")
-	parser.add_argument("--date",required = False, help="date in MM-DD-YYYY, today if not provided")
+	# parser.add_argument("--date",required = False, help="date in MM-DD-YYYY, today if not provided")
 	# parser.add_argument("--outfile",required = True,  help="directory and file name you wish to store the cleaned up output in")
 	args = parser.parse_args()
 
