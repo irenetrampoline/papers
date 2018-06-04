@@ -2,6 +2,8 @@
 My goal is to read an academic paper every day. Here I keep myself accountable.
 
 ## Papers
+**Jun 03, 2018:** [Large-scale Analysis of Counseling Conversations: An Application of Natural Language Processing to Mental Health.](writeups/AltClaLes16.md) T. Althoff, K. Clark, J. Leskovec. 2016. [[pdf]](http://www.aclweb.org/anthology/Q16-1033)
+
 **May 31, 2018:** [Preventing Fairness Gerrymandering: Auditing and Learning for Subgroup Fairness.](writeups/KeaEtAl18.md) M. Kearns, S. Neel, A. Roth, Z. Steven Wu. 2018. [[pdf]](https://arxiv.org/pdf/1711.05144.pdf)
 
 **May 30, 2018:** [The Seven Pillars of Causal Reasoning with Reflections on Machine Learning.](writeups/Pea18.md) J. Pearl. 2018. [[pdf]](http://ftp.cs.ucla.edu/pub/stat_ser/r481.pdf)
