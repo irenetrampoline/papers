@@ -2,6 +2,8 @@
 My goal is to read an academic paper every day. Here I keep myself accountable.
 
 ## Papers
+**Jun 05, 2018:** [Do CIFAR-10 Classifiers Generalize to CIFAR-10?.](writeups/RecEtAl18.md) B. Recht, R. Roelofs, L. Schmit, V. Shankar. 2018. [[pdf]](https://arxiv.org/pdf/1806.00451.pdf)
+
 **Jun 03, 2018:** [Large-scale Analysis of Counseling Conversations: An Application of Natural Language Processing to Mental Health.](writeups/AltClaLes16.md) T. Althoff, K. Clark, J. Leskovec. 2016. [[pdf]](http://www.aclweb.org/anthology/Q16-1033)
 
 **May 31, 2018:** [Preventing Fairness Gerrymandering: Auditing and Learning for Subgroup Fairness.](writeups/KeaEtAl18.md) M. Kearns, S. Neel, A. Roth, Z. Steven Wu. 2018. [[pdf]](https://arxiv.org/pdf/1711.05144.pdf)
