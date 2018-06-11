@@ -2,6 +2,10 @@
 My goal is to read an academic paper every day. Here I keep myself accountable.
 
 ## Papers
+**Jun 11, 2018:** [Learning to Ask Good Questions: Ranking Clarification Questions using Neural Expected Value of Perfect Information.](writeups/RaoDau18.md) S. Rao, H. Daume. 2018. [[pdf]](https://arxiv.org/pdf/1805.04655.pdf)
+
+**Jun 10, 2018:** [An Alternative View: When Does SGD Escape Local Minima?](writeups/KleLiYua18.md) R. Kleinberg, Y. Li, Y. Yuan. 2018. [[pdf]](https://arxiv.org/pdf/1802.06175.pdf)
+
 **Jun 05, 2018:** [Do CIFAR-10 Classifiers Generalize to CIFAR-10?.](writeups/RecEtAl18.md) B. Recht, R. Roelofs, L. Schmit, V. Shankar. 2018. [[pdf]](https://arxiv.org/pdf/1806.00451.pdf)
 
 **Jun 03, 2018:** [Large-scale Analysis of Counseling Conversations: An Application of Natural Language Processing to Mental Health.](writeups/AltClaLes16.md) T. Althoff, K. Clark, J. Leskovec. 2016. [[pdf]](http://www.aclweb.org/anthology/Q16-1033)

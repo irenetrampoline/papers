@@ -34,7 +34,8 @@ def main():
 
 		year = all_nums[-1]
 	except:
-		raise ValueError('Year must end with e.g. "2014."')
+		pdb.set_trace()
+		raise ValueError('Year must end with digits, e.g. "2014."')
 
 	if authors_N < 4: 
 		md_title = []
