@@ -114,3 +114,4 @@ My goal is to read an academic paper every day. Here I keep myself accountable.
  - [HCI papers](http://hci.stanford.edu/courses/cs376/2014/syllabus.php)
  - [HCI paper Amy liked](http://www-personal.umich.edu/~itm/688/wk11%20-%20social%20cognition/Ackerman-SociotechnicalGap-HCI00.pdf)
  - [Most cited deep learning papers](https://github.com/terryum/awesome-deep-learning-papers)
+ - [Fairness reading group at Cornell](https://docs.google.com/document/d/1oIwFQtGIaswvEsHP5-_FP3g150YA5nkkhDYxDgfMUxg/edit)
