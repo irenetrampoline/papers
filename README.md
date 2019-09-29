@@ -1,5 +1,5 @@
 # Academic papers Irene has read
-My goal is to read an academic paper every day. Here I keep myself accountable.
+My goal used to be read an academic paper every day. Odds are this repo is very outdated.
 
 ## Papers
 **Jun 11, 2018:** [Learning to Ask Good Questions: Ranking Clarification Questions using Neural Expected Value of Perfect Information.](writeups/RaoDau18.md) S. Rao, H. Daume. 2018. [[pdf]](https://arxiv.org/pdf/1805.04655.pdf)
